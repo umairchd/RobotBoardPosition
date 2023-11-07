@@ -20,7 +20,7 @@ This command will execute the RSpec spec file `robot_spec.rb` and display the te
 
 ## Description
 
-You can also see an example usage of the `Robot` class in the `robot.rb` file. To run the example usage, simply execute the following command:
+You can also see `Robot` class in the `robot.rb` file which is used to keep track of Robot position. To run the example usage, simply execute the following command:
 
 ruby robot.rb
 
